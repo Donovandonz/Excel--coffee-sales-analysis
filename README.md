@@ -52,6 +52,9 @@ This Excel dashboard features **4 key analyses**:
 ### 🖼️ Dashboard Preview
 - <a href="https://github.com/Donovandonz/Excel--coffee-sales-analysis/blob/main/Coffee-sales-Dashboard.png">Coffee-Sales-Dashboard</a>
 
+<img width="1226" height="855" alt="Coffee-sales-Dashboard" src="https://github.com/user-attachments/assets/55450cb3-70a1-4c59-813c-752035583e11" />
+
+
 
 
 
