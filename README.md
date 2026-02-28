@@ -50,7 +50,7 @@ This Excel dashboard features **4 key analyses**:
 | 5 | **Cortado** |
 
 ### 🖼️ Dashboard Preview
-![Excel Coffee Dashboard](./docs/figures/excel-dashboard-screenshot.png)
+- <a href="https://github.com/Donovandonz/Excel--coffee-sales-analysis/blob/main/Coffee-sales-Dashboard.png">Coffee-Sales-Dashboard</a>
 
 
 
