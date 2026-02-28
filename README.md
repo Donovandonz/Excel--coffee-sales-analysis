@@ -52,6 +52,6 @@ This Excel dashboard features **4 key analyses**:
 ### 🖼️ Dashboard Preview
 ![Excel Coffee Dashboard](./docs/figures/excel-dashboard-screenshot.png)
 
-*📌 Note: Add your actual dashboard screenshot to the `/docs/figures/` folder*
+
 
 ### 📁 Repository Structure
