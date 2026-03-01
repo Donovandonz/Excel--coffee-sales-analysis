@@ -6,15 +6,19 @@
 ## Dataset used
 - <a href="https://github.com/Donovandonz/Excel--coffee-sales-analysis/blob/main/Coffe_sales.csv">RAW-Datasets</a>
 
+---
 
 ### 🎯 The Mission
 Transform raw coffee sales data into actionable business insights through data cleaning, analysis, and interactive dashboard creation—all in Excel.
+
+---
 
 ### 🧰 My Toolkit
 | Tool | What I Used It For |
 |------|-------------------|
 | 📗 Excel | Data cleaning, pivot tables, formulas, charts, and interactive dashboard |
 
+---
 
 ### 📊 Dashboard Components
 This Excel dashboard features **4 key analyses**:
@@ -25,6 +29,8 @@ This Excel dashboard features **4 key analyses**:
 | 🏆 **Best Performing Coffee By Category** | Identify top performers within each coffee type |
 | 📈 **Revenue Trend Per Month** | Track sales patterns and seasonal trends throughout the year |
 | 🔝 **Top 5 Coffee by Quantity** | Discover your best-selling coffee products |
+
+---
 
 ### 💎 Key Discoveries
 
@@ -40,6 +46,8 @@ This Excel dashboard features **4 key analyses**:
 - **October 2024** showed strong revenue performance
 - **February 2025** followed as another high-revenue month
 
+---
+
 #### 🔥 **Top 5 Best-Selling Coffees (by Quantity)**
 | Rank | Coffee | 
 |------|--------|
@@ -49,11 +57,14 @@ This Excel dashboard features **4 key analyses**:
 | 4 | **Cappuccino** |
 | 5 | **Cortado** |
 
+---
+
 ### 🖼️ Dashboard Preview
 - <a href="https://github.com/Donovandonz/Excel--coffee-sales-analysis/blob/main/Coffee-sales-Dashboard.png">Coffee-Sales-Dashboard</a>
 
 <img width="1226" height="855" alt="Coffee-sales-Dashboard" src="https://github.com/user-attachments/assets/55450cb3-70a1-4c59-813c-752035583e11" />
 
+---
 
 ## 🎯 **Final Conclusion**
 
